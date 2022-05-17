@@ -1,0 +1,77 @@
+.material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;  /* Preferred icon size */
+    display: inline-block;
+    line-height: 1;
+    text-transform: none;
+    letter-spacing: normal;
+    word-wrap: normal;
+    white-space: nowrap;
+    direction: ltr;
+  
+        .icon-home {
+          color: #EDA11B;
+  
+        }
+  
+        .navbar-toggler {
+          color: #2FAE7F;
+          border-color: rgb(237,161,27);
+          border-color: #2FAE7F;
+  
+        }
+        .navbar-toggler-icon {
+          color: #EDA11B;
+        }
+        button {
+          color: #EDA11B;
+        }
+        .dropdown-item {
+          color: #EDA11B;
+          background-color: #000000;
+  
+        }
+        .dropdown-item a:hover {
+          color: #000000;
+          background-color: #EDA11B;
+  
+        }
+       
+        .bg-dark {
+          background-color: #000000!important;
+        }
+  
+        #navbardrop  {
+  
+        background-color: black;
+        color: black;
+        }
+        .navbar {
+          background-color: black;
+        }
+        .dropdown-menu.show {
+          background-color: black;
+        }
+  
+        #navbardrop1{
+          color: #EDA11B;
+  
+        }
+  
+          #navbardrop2{
+          color: #EDA11B;
+  
+        }
+          #navbardrop3{
+          color: #EDA11B;
+  
+        }
+          #navbardrop4{
+          color: #EDA11B;
+  
+        }
+         #navbardrop5{
+          color: #EDA11B;
+         }
