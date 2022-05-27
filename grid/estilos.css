@@ -1,6 +1,7 @@
 
 body {
   background-color: #e0cfa4a2;
+  /*background-image: url('fondo web.png');*/
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -611,10 +612,13 @@ p{
     
     #carrusel {
         display: none;
+       
     }
 
-    #carrusel img{
+    #carrusel div img{
         display: none;
+        height: auto; 
+        max-width: 100%
     }
 
 }
